@@ -1,0 +1,1 @@
+![Bild på Mona Golpagon](img/CV-bild.png) *Mona Golpagon* som är en glad och trevlig student på BTH som är designaren till denna sida. Hon har använt sig av Anax Flat för utformningen. Läs lite om vad hon tycker om denna kursen [här](report/intro)
