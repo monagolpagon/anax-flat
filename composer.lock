@@ -215,16 +215,16 @@
         },
         {
             "name": "mos/anax-flat",
-            "version": "v1.1.10",
+            "version": "v1.1.11",
             "source": {
                 "type": "git",
                 "url": "https://github.com/canax/anax-flat.git",
-                "reference": "e27c2515aa816d93354b64898b337f69114ae3b0"
+                "reference": "8c763a9d0344475e1058ef345c48750077c3aac8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/canax/anax-flat/zipball/e27c2515aa816d93354b64898b337f69114ae3b0",
-                "reference": "e27c2515aa816d93354b64898b337f69114ae3b0",
+                "url": "https://api.github.com/repos/canax/anax-flat/zipball/8c763a9d0344475e1058ef345c48750077c3aac8",
+                "reference": "8c763a9d0344475e1058ef345c48750077c3aac8",
                 "shasum": ""
             },
             "require": {
@@ -262,7 +262,7 @@
                 "micro",
                 "mvc"
             ],
-            "time": "2017-11-07T09:16:15+00:00"
+            "time": "2017-11-09T15:28:44+00:00"
         },
         {
             "name": "mos/cimage",

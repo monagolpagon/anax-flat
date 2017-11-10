@@ -103,3 +103,5 @@ theme:
 # test:
 # 	@$(call HELPTEXT,$@)
 # 	[ ! -d theme ] || $(MAKE) -C theme test
+
+# target: upgrade-normalize       - Upgrade LESS module - Normalize.
