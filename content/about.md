@@ -15,4 +15,6 @@ Fokus på denna hemsidan:
 
 * Kursen inom dbwebb: [dbwebb course design](http://dbwebb.se/design).
 
-* Grunden för denna hemsidan kan hittas i GitHub:  [GitHub](https://github.com/monagolpagon/anax-flat/tree/1.0.0).
+* Grunden för denna hemsidan kan hittas   [här](https://github.com/monagolpagon/anax-flat/tree/1.0.0).
+
+* Länk till tema för andra inlämningen på Github finns [här](https://github.com/monagolpagon/anax-flat-theme);
