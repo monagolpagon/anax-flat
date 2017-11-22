@@ -87,6 +87,8 @@ return [
                     ],
                     [
                         "contentRoute" => "block/footer-col-2",
+                        //"contentRoute" => "block/myblock",
+
                     ],
                     [
                         "contentRoute" => "block/footer-col-3",

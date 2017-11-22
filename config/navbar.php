@@ -32,6 +32,18 @@ return [
                 "url"   => $this->di->get("url")->create("test"),
                 "title" => t("Testar ramverket")
             ],
+
+            "Typography" => [
+                "text"  => t("Typography"),
+                "url"   => $this->di->get("url")->create("typography"),
+                "title" => t("Typo stuff")
+            ],
+
+            "Vertical" => [
+                "text"  => t("Vertical"),
+                "url"   => $this->di->get("url")->create("vertical"),
+                "title" => t("vertical stuff")
+            ]
         ],
     ],
 
