@@ -43,7 +43,28 @@ return [
                 "text"  => t("Vertical"),
                 "url"   => $this->di->get("url")->create("vertical"),
                 "title" => t("vertical stuff")
+            ],
+
+            "Theme-selector" => [
+                "text"  => t("Theme-selector"),
+                "url"   => $this->di->get("url")->create("theme-selector"),
+                "title" => t("theme stuff")
+            ],
+
+            "Inspector" => [
+                "text"  => t("Inspector"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("inspector of color"),
+                "mark-if-parent" => true
+            ],
+
+            "Theme" => [
+                "text"  => t("Theme"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("motivation of the themes"),
+                "mark-if-parent" => true
             ]
+
         ],
     ],
 

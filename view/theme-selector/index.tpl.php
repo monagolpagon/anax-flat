@@ -28,7 +28,7 @@
                 </option>
             <?php endforeach; ?>
         </select>
-        
+
         <output>
             <?php if ($message) : ?>
                 <p><?= $message ?></p>
@@ -36,6 +36,8 @@
         </output>
     </fieldset>
 </form>
+
+
 
 <p>Here you can select a theme. By selecting a theme, the theme details are stored in the session and applied to the template when rendering the resulting page.</p>
 
