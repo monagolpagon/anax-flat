@@ -63,7 +63,21 @@ return [
                 "url"   => $this->di->get("url")->create("theme"),
                 "title" => t("motivation of the themes"),
                 "mark-if-parent" => true
-            ]
+            ],
+
+            "Image" => [
+                "text"  => t("Image"),
+                "url"   => $this->di->get("url")->create("image"),
+                "title" => t("CImage")
+            ],
+
+            "Blogg" => [
+                "text"  => t("Blogg"),
+                "url"   => $this->di->get("url")->create("blogg"),
+                "title" => t("Blogg"),
+                "mark-if-parent" => true
+            ],
+
 
         ],
     ],
