@@ -30,7 +30,7 @@ views:
                 view: blog-list
 
 ...
-Min bild blogg
+Dragon blogg
 ===========================
 
-Dagens foto presenteras med en kort beskrivning om hur det gick till när bilden togs.
+Här berättas det kort om tre drakar.

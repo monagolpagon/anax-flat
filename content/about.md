@@ -1,20 +1,11 @@
 Om hemsidan:
 ==============================================
 
-Fokus på denna hemsidan:
+  <h2>Artisten Art Ist</h2>
+
+  Art Ist är en ung artist som är intresserad av trolleri och magiska varelser. Därför valde jag en bild på en skog som backgrundsbild då jag tyckte att det fångade just den känslan som Art Ist ville förmedla till hemsidans besökare. Vidare valde jag en drake som logo och favicon då det passade men Art Ist intresse för de övernaturliga krafterna och magiska varelserna. Denna kunden vill fånga besökares intresse och låsa in dem i den magiska världen på samma sätt som han själv blivit inlåst. Förhoppningsvis lyckas utseendet på denna sidan uppfylla detta syfte.
 
 
-* Utvecklaren:
-
-  Mona är en glad och social tjej som fokuserar mycket på sina studier. På sin fritid tycker hon om att umgås med familj och vänner. Mona tycker om att resa och då hon tala fyra språk brukar hon inte ha större problem med att kommunicera med lokalbefolkningen i diverse olika länderna.
-
-  Sedan 2014 har Mona bott i Karlskrona på grund av sina på började studier inom IEEE programmet. Hon är född och uppväxt i Malmö och har därför både sin familj och majoriteten av sina vänner i den staden, på grund av detta reser hon gärna dit så ofta som möjligt.
-
-  2017 på började Mona ännu en utbildning, Webbprogrammering, och hoppas på att år 2019 kunna ta dubbla examen genom att avsluta båda studierna samtidigt.
-
-
-* Kursen inom dbwebb: [dbwebb course design](http://dbwebb.se/design).
+* Projekt inom dbwebb-kursen: [dbwebb course design](http://dbwebb.se/design).
 
 * Grunden för denna hemsidan kan hittas   [här](https://github.com/monagolpagon/anax-flat/tree/1.0.0).
-
-* Länk till tema för andra inlämningen på Github finns [här](https://github.com/monagolpagon/anax-flat-theme);

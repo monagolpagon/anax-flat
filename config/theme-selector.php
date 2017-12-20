@@ -25,7 +25,7 @@ return [
             "stylesheets" => [
                 "css/style.min.css", "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
             ]
-        ],
+        ],/*
 
         "separator1" => "------------------------------------------------",
 
@@ -61,10 +61,34 @@ return [
 
         "separator2" => "------------------------------------------------",
 
-        "fun"       => [
-            "title"      => "All fun, test and play, make it stand out!",
+        "theme1"       => [
+            "title"      => "Theme1",
             "class"      => "fun",
-            "stylesheets" => []
+            "stylesheets" => ["css/theme1.min.css" , "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"]
         ],
+
+        "theme2"       => [
+            "title"      => "Theme2",
+            "class"      => "fun",
+            "stylesheets" => ["css/theme2.min.css" , "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"]
+        ],
+
+        "theme3"       => [
+            "title"      => "Theme3",
+            "class"      => "fun",
+            "stylesheets" => ["css/theme3.min.css" , "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"]
+        ],
+
+        "theme4"       => [
+            "title"      => "Theme4",
+            "class"      => "fun",
+            "stylesheets" => ["css/theme4.min.css" , "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"]
+        ],
+
+        "theme5"       => [
+            "title"      => "Theme5",
+            "class"      => "fun",
+            "stylesheets" => ["css/theme5.min.css" , "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"]
+        ],*/
     ]
 ];

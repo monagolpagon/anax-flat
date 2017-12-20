@@ -1,3 +1,3 @@
-####Min bild blogg
+####Dragon Blogg
 
-Dagens foto presenteras med en kort beskrivning om hur det gick till när bilden togs.
+Här berättas det kort om tre olika drakar.

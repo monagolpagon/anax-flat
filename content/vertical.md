@@ -1,14 +1,3 @@
----
-views:
-    byline:
-        region: sidebar-left
-        template: default/content
-        sort: 1
-        data:
-            meta:
-                type: content
-                route: block/myblock
-...
 
 <div class="column-a">
     <h1>This is H1</h1>

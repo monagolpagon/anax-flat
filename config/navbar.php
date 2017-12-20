@@ -14,62 +14,26 @@ return [
         // Here comes the menu structure
         "items" => [
 
-            "report" => [
-                "text"  => t("Report"),
-                "url"   => $this->di->get("url")->create("report"),
-                "title" => t("Reports from kmom assignments"),
-                "mark-if-parent" => true,
-            ],
-
             "about" => [
                 "text"  => t("About"),
                 "url"   => $this->di->get("url")->create("about"),
                 "title" => t("About this website")
             ],
 
-            "Test" => [
-                "text"  => t("Test"),
-                "url"   => $this->di->get("url")->create("test"),
-                "title" => t("Testar ramverket")
-            ],
-
-            "Typography" => [
-                "text"  => t("Typography"),
-                "url"   => $this->di->get("url")->create("typography"),
-                "title" => t("Typo stuff")
-            ],
-
-            "Vertical" => [
-                "text"  => t("Vertical"),
-                "url"   => $this->di->get("url")->create("vertical"),
-                "title" => t("vertical stuff")
-            ],
 
             "Theme-selector" => [
                 "text"  => t("Theme-selector"),
                 "url"   => $this->di->get("url")->create("theme-selector"),
-                "title" => t("theme stuff")
-            ],
-
-            "Inspector" => [
-                "text"  => t("Inspector"),
-                "url"   => $this->di->get("url")->create("analysis"),
-                "title" => t("inspector of color"),
-                "mark-if-parent" => true
+                "title" => t("theme stuff"),
             ],
 
             "Theme" => [
                 "text"  => t("Theme"),
-                "url"   => $this->di->get("url")->create("theme"),
-                "title" => t("motivation of the themes"),
-                "mark-if-parent" => true
+                "url"   => $this->di->get("url")->create("themes"),
+                "title" => t("Themes"),
+                "mark-if-parent" => true,
             ],
 
-            "Image" => [
-                "text"  => t("Image"),
-                "url"   => $this->di->get("url")->create("image"),
-                "title" => t("CImage")
-            ],
 
             "Blogg" => [
                 "text"  => t("Blogg"),
@@ -77,7 +41,6 @@ return [
                 "title" => t("Blogg"),
                 "mark-if-parent" => true
             ],
-
 
         ],
     ],
@@ -96,24 +59,33 @@ return [
         // Here comes the menu structure
         "items" => [
 
-            "report" => [
-                "text"  => t("Report"),
-                "url"   => $this->di->get("url")->create("report"),
-                "title" => t("Reports from kmom assignments"),
-                "mark-if-parent" => true,
-            ],
+          "about" => [
+              "text"  => t("About"),
+              "url"   => $this->di->get("url")->create("about"),
+              "title" => t("About this website")
+          ],
 
-            "about" => [
-                "text"  => t("About"),
-                "url"   => $this->di->get("url")->create("about"),
-                "title" => t("About this website")
-            ],
 
-            "Test" => [
-                "text"  => t("Test"),
-                "url"   => $this->di->get("url")->create("test"),
-                "title" => t("Testar ramverket")
-            ],
+          "Theme-selector" => [
+              "text"  => t("Theme-selector"),
+              "url"   => $this->di->get("url")->create("theme-selector"),
+              "title" => t("theme stuff"),
+          ],
+
+          "Theme" => [
+              "text"  => t("Theme"),
+              "url"   => $this->di->get("url")->create("themes"),
+              "title" => t("Themes"),
+              "mark-if-parent" => true,
+          ],
+
+
+          "Blogg" => [
+              "text"  => t("Blogg"),
+              "url"   => $this->di->get("url")->create("blogg"),
+              "title" => t("Blogg"),
+              "mark-if-parent" => true
+          ],
         ],
     ],
 

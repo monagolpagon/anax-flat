@@ -1,7 +1,11 @@
+
+
 <?php
 /**
  * Theme selector in the design course.
  */
+
+
 
 ?><article>
 <h1>Theme selector</h1>
